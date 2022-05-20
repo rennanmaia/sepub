@@ -1,0 +1,15 @@
+table {
+  width: 100%;
+  max-width: 768px;
+}
+
+table, th, td {
+  border: 1px solid;
+  border-spacing: 0px;
+  border-color: gray;
+}
+
+th, td {
+  padding: 10px;
+  text-align: center;
+}
